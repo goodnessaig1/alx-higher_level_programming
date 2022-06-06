@@ -1,1 +1,1 @@
-My readme file
+This project is about Python - import & modules
