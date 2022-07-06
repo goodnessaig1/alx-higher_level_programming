@@ -1,5 +1,5 @@
+
 #!/usr/bin/python3
-# 7-add_item.py
 """Add all arguments to a Python list and save them to a file."""
 import sys
 
@@ -14,3 +14,4 @@ if __name__ == "__main__":
         items = []
     items.extend(sys.argv[1:])
     save_to_json_file(items, "add_item.json")
+    
